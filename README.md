@@ -1,0 +1,2 @@
+# new-one
+hyy team, we are going to make project. we will make app for android users. we will make app for our collage students where they found every books for there syllabus and they can download there books.  i need android developer (*android studio) / i also need who have knowledge about c++ / shift (IoS). and i want also go on web so also need a web developer. and app UI designer (*Figma)  first we will make only android app and the we will think about IoS and web app
